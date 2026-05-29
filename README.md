@@ -102,12 +102,35 @@ docker-compose up --build
 ---
 
 ## Output Screenshots
+### Login Page
 
-```markdown
-![Dashboard](screenshots/dashboard.png)
-```
+![Login Page](screenshots/Login%20Page.png)
 
 ---
+
+### Dashboard
+
+![Dashboard](screenshots/Dashboard.jpeg)
+
+---
+
+### Alert Message
+
+![Alert Message](screenshots/Alert%20Message.png)
+
+---
+
+### Engine Predictive History
+
+![Engine Predictive History](screenshots/Engine%20Pedictive%20History.png)
+
+---
+
+### RUL Trends
+
+![RUL Trends](screenshots/RUL%20Tends.png)
+
+
 * Final Year Project
 
 ---
