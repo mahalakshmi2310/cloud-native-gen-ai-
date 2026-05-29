@@ -103,10 +103,6 @@ docker-compose up --build
 
 ## Output Screenshots
 
-Add your project screenshots inside a `screenshots/` folder and display them here.
-
-Example:
-
 ```markdown
 ![Dashboard](screenshots/dashboard.png)
 ```
