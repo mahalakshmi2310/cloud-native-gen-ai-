@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+tensorflow
+torch
+joblib
+kafka-python
+psycopg2-binary
+fastapi
+uvicorn
+streamlit
+openai
+requests
