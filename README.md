@@ -131,10 +131,11 @@ docker-compose up --build
 ![RUL Trends](screenshots/RUL%20Tends.png)
 
 
-* Final Year Project
 
 ---
 
 ## License
+
+* Final Year Project
 
 This project is developed for educational and academic purposes.
